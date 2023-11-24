@@ -1,0 +1,58 @@
+[
+  {
+    "id": "uniqueCostumes1",
+    "path": "images/unique costumes/1.jpg",
+    "title": "Bình Pha Lê Vàng 1",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "uniqueCostumes2",
+    "path": "images/unique costumes/2.jpg",
+    "title": "Bình Pha Lê Vàng 2",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "uniqueCostumes3",
+    "path": "images/unique costumes/3.jpg",
+    "title": "Bình Pha Lê Vàng 3",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "uniqueCostumes4",
+    "path": "images/unique costumes/4.jpg",
+    "title": "Bình Pha Lê Vàng 4",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "uniqueCostumes5",
+    "path": "images/unique costumes/5.jpg",
+    "title": "Bình Pha Lê Vàng 5",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "uniqueCostumes6",
+    "path": "images/unique costumes/6.jpg",
+    "title": "Bình Pha Lê Vàng 6",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "uniqueCostumes7",
+    "path": "images/unique costumes/7.jpg",
+    "title": "Bình Pha Lê Vàng 7",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "uniqueCostumes8",
+    "path": "images/unique costumes/8.jpg",
+    "title": "Bình Pha Lê Vàng 8",
+    "type": "epoxyLamp",
+    "description": ""
+  }
+]

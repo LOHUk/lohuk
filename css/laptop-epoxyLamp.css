@@ -1,0 +1,67 @@
+.epoxyLamp-menu {
+  color: #f4bf52;
+  font-size: 22px;
+  border: 1px solid #f4bf52;
+  background-color: #212529;
+  padding: 0;
+}
+
+#epoxyLamp {
+  padding: 8px 0;
+}
+
+.epoxyLamp-nav {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.epoxyLamp-nav-DMSP {
+  padding-left: 0;
+}
+
+.epoxyLamp-DMSP {
+  font-size: 20px;
+  width: 280px;
+  height: 50px;
+  /* padding-left: 12px; */
+  border: 2px solid #f4bf52;
+  border-top: none;
+  background-color: #212529;
+  padding: 8px;
+  margin: 0;
+}
+
+.epoxyLamp-DMSP:hover .dropdown-epoxy-2 {
+  display: block;
+  margin-left: 269px;
+  margin-top: -40px;
+  border: 1px solid #f4bf52;
+}
+
+.dropdown .dropdown-none:active {
+  pointer-events: none;
+}
+
+#showmenu {
+  position: absolute;
+  z-index: 1000;
+}
+
+.hidden {
+  display: none;
+}
+
+.path-dir {
+  color: #f4bf52;
+}
+
+.path-dir:hover a {
+  color: #fff;
+}
+
+.epoxyHandmade-quickView {
+  width: 220px;
+}
+.card {
+  width: 222px;
+}

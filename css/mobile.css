@@ -1,0 +1,13 @@
+@media screen and (max-width: 760px) {
+  .productDetail-content .card {
+    width: 400px;
+    margin: 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .productDetail-content .card {
+    width: 310px;
+    margin: 20px;
+  }
+}

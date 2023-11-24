@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap 5 -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <!-- Icons Bootstrap -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css"
+    />
+    <!-- Owl Carousel  -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"
+      integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g=="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css"
+      integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw=="
+      crossorigin="anonymous"
+    />
+    <!-- CSS of Laptop, Tablet, Mobile -->
+    <link href="css/laptop.css" rel="stylesheet" />
+    <link href="css/tablet.css" rel="stylesheet" />
+    <link href="css/mobile.css" rel="stylesheet" />
+    <title>Home</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <!-- Logo -->
+        <div class="container d-flex align-items-center" id="fixed-Scroll">
+          <div id="logo">
+            <a class="text-warning" href="index.html">
+              <div class="d-flex align-items-center">
+                <div>
+                  <img src="./images/backgrounds/LoHuK_Line.png" alt="Logo" />
+                </div>
+                <div style="margin-left: 5px">
+                  LOHUK<br />
+                  HANDMADE WITH PASSION
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="d-lg-block d-none">
+            <form class="d-flex">
+              <input
+                class="form-control me-2"
+                type="search"
+                placeholder="Tìm kiếm sản phẩm ..."
+              />
+              <button
+                class="btn btn-outline-warning text-warning"
+                type="submit"
+              >
+                <i class="bi bi-search"></i>
+              </button>
+            </form>
+          </div>
+          <div class="d-flex align-items-center" id="phone">
+            <div>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="50"
+                height="50"
+                fill="currentColor"
+                class="bi bi-telephone"
+                viewBox="0 0 16 16"
+                style="margin-right: 10px"
+              >
+                <path
+                  d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.568 17.568 0 0 0 4.168 6.608 17.569 17.569 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.678.678 0 0 0-.58-.122l-2.19.547a1.745 1.745 0 0 1-1.657-.459L5.482 8.062a1.745 1.745 0 0 1-.46-1.657l.548-2.19a.678.678 0 0 0-.122-.58L3.654 1.328zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z"
+                />
+              </svg>
+            </div>
+            <div>
+              <div>VP Hồ Chí Minh: 0768.990.990</div>
+              <div>VPĐD Cần Thơ : 0896.866.849</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg navbar-light">
+          <div class="container" style="background-color: #212529">
+            <a
+              class="navbar-brand d-lg-none d-block"
+              href="#"
+              style="
+                margin-left: 10px;
+                color: #ffe066;
+                background-color: #212529;
+                pointer-events: none;
+              "
+              >DANH MỤC SẢN PHẨM</a
+            >
+            <button
+              class="navbar-toggler bg-warning"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarToggler"
+              aria-controls="navbarNav"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+              style="color: #ffe066; margin: 5px"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarToggler">
+              <ul class="navbar-nav me-auto mb-1 mb-lg-0 gap-5">
+                <li class="nav-item">
+                  <a class="nav-link text-warning active li-a" href="#"
+                    >Trang chủ</a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-warning li-a" href="#">Giới thiệu</a>
+                </li>
+                <!--  -->
+                <li class="nav-item dropdown menu-1">
+                  <a
+                    class="nav-link text-warning dropdown-toggle li-a"
+                    href="#"
+                    data-bs-toggle="dropdown"
+                    >Danh mục sản phẩm</a
+                  >
+                  <ul class="dropdown-menu bg-dark dropdown-menu-1">
+                    <li class="nav-item dropdown menu-2">
+                      <a
+                        class="nav-link text-warning dropdown-toggle li-a"
+                        href="#"
+                        data-bs-toggle="dropdown"
+                        >Epoxy Handmade</a
+                      >
+                      <ul class="dropdown-menu bg-dark dropdown-menu-2">
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Đèn Epoxy</a
+                          >
+                        </li>
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Khay / Thớt Epoxy</a
+                          >
+                        </li>
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Kim tự tháp năng lượng</a
+                          >
+                        </li>
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Trứng Epoxy</a
+                          >
+                        </li>
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Tượng Epoxy</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="nav-item dropdown menu-2">
+                      <a
+                        class="nav-link dropdown-toggle text-warning li-a"
+                        href="#"
+                        data-bs-toggle="dropdown"
+                        >Nội thất Epoxy</a
+                      >
+                      <ul class="dropdown-menu bg-dark dropdown-menu-2">
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Mặt bàn epoxy</a
+                          >
+                        </li>
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Đảo bếp / Quầy bar Epoxy</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="nav-item dropdown menu-2">
+                      <a
+                        class="nav-link text-warning dropdown-toggle li-a"
+                        href="#"
+                        data-bs-toggle="dropdown"
+                        >Quà tặng doanh nghiệp/cá nhân</a
+                      >
+                      <ul class="dropdown-menu bg-dark dropdown-menu-2">
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Thiết kế , in ấn logo quà tặng Doanh Nghiệp và cá
+                            nhân</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="nav-item dropdown menu-2">
+                      <a
+                        class="nav-link text-warning dropdown-toggle li-a"
+                        href="#"
+                        data-bs-toggle="dropdown"
+                        >Trang phục biểu diễn độc đáo</a
+                      >
+                      <ul class="dropdown-menu bg-dark dropdown-menu-2">
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Mô hình robot khổng lồ</a
+                          >
+                        </li>
+                        <li class="dropdown-color">
+                          <a class="dropdown-item text-warning" href="#"
+                            >Trang phục robot khổng lồ</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+                <!--  -->
+
+                <li class="nav-item">
+                  <a class="nav-link text-warning li-a" href="contact.html"
+                    >Liên hệ</a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-warning li-a" href="#">Tuyển Dụng</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+        <!-- Carousel -->
+        <div
+          id="carouselCaptions"
+          class="carousel slide w-100"
+          data-bs-ride="carousel"
+          data-bs-interval="5000"
+        >
+          <div class="carousel-indicators">
+            <button
+              type="button"
+              data-bs-target="#carouselCaptions"
+              data-bs-slide-to="0"
+              class="active"
+              aria-current="true"
+              aria-label="Slide 1"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselCaptions"
+              data-bs-slide-to="1"
+              aria-label="Slide 2"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselCaptions"
+              data-bs-slide-to="2"
+              aria-label="Slide 3"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselCaptions"
+              data-bs-slide-to="3"
+              aria-label="Slide 4"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselCaptions"
+              data-bs-slide-to="4"
+              aria-label="Slide 5"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselCaptions"
+              data-bs-slide-to="5"
+              aria-label="Slide 6"
+            ></button>
+            <button
+              type="button"
+              data-bs-target="#carouselCaptions"
+              data-bs-slide-to="6"
+              aria-label="Slide 7"
+            ></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img
+                id="h-img"
+                src="images/slideBars/slide 1.jpg"
+                class="d-block w-100"
+                alt="Slide 1"
+              />
+            </div>
+            <div class="carousel-item">
+              <img
+                id="h-img"
+                src="images/slideBars/slide 2.jpg"
+                class="d-block w-100"
+                alt="Slide 2"
+              />
+            </div>
+            <div class="carousel-item">
+              <img
+                id="h-img"
+                src="images/slideBars/slide 3.jpg"
+                class="d-block w-100"
+                alt="Slide 3"
+              />
+            </div>
+            <div class="carousel-item">
+              <img
+                id="h-img"
+                src="images/slideBars/slide 4.jpg"
+                class="d-block w-100"
+                alt="Slide 4"
+              />
+            </div>
+            <div class="carousel-item">
+              <img
+                id="h-img"
+                src="images/slideBars/slide 5.jpg"
+                class="d-block w-100"
+                alt="Slide 5"
+              />
+            </div>
+            <div class="carousel-item">
+              <img
+                id="h-img"
+                src="images/slideBars/slide 6.jpg"
+                class="d-block w-100"
+                alt="Slide 6"
+              />
+            </div>
+            <div class="carousel-item">
+              <img
+                id="h-img"
+                src="images/slideBars/slide 7.jpg"
+                class="d-block w-100"
+                alt="Slide 7"
+              />
+            </div>
+          </div>
+          <button
+            class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselCaptions"
+            data-bs-slide="prev"
+          >
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button
+            class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselCaptions"
+            data-bs-slide="next"
+          >
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </header>
+    <main>
+      <!-- Product detail -->
+      <section>
+        <div class="container">
+          <div class="row productDetail">
+            <div
+              class="col-12 col-md-2"
+              style="padding: 0; background-color: #343a40"
+            >
+              <nav
+                class="navbar navbar-expand-lg navbar-light bg-light"
+                id="bgProductDetail"
+              >
+                <div
+                  class="container-fluid productDetail-session"
+                  style="background-color: #212529"
+                >
+                  <a
+                    class="navbar-brand d-md-none d-block"
+                    href="#"
+                    style="
+                      margin-left: 10px;
+                      color: #ffe066;
+                      background-color: #212529;
+                      pointer-events: none;
+                    "
+                    >Epoxy Handmade</a
+                  >
+                  <button
+                    class="navbar-toggler bg-warning"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#navbarNav"
+                    aria-controls="navbarNav"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                    style="color: #ffe066; margin: 5px"
+                  >
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="productDetail-ul">
+                      <li class="productDetail-li" style="margin: 0">
+                        <a
+                          class="nav-link d-md-block d-none disabled"
+                          aria-current="page"
+                          href="#"
+                          style="background-color: #212529"
+                          aria-disabled="true"
+                          ><h3 class="" style="margin: 0">Epoxy Handmade</h3></a
+                        >
+                      </li>
+                      <li class="productDetail-li">
+                        <a class="nav-link active" href="#">Đèn Epoxy</a>
+                      </li>
+                      <li class="productDetail-li">
+                        <a class="nav-link" href="#">Khay / Thớt Epoxy</a>
+                      </li>
+                      <li class="productDetail-li">
+                        <a class="nav-link" href="#">Kim tự tháp năng lượng</a>
+                      </li>
+                      <li class="productDetail-li">
+                        <a class="nav-link" href="#">Trứng Epoxy</a>
+                      </li>
+                      <li class="productDetail-li">
+                        <a class="nav-link" href="#">Tượng Epoxy </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+            </div>
+            <div
+              class="col-12 col-md-10"
+              style="
+                border-left: 1px solid #868e96;
+                border-top: 1px solid #868e96;
+              "
+            >
+              <div
+                class="d-md-flex flex-wrap justify-content-center productDetail-content"
+              >
+                <div class="card d-block">
+                  <div class="cl-quickView" href="#">
+                    <!-- Button trigger modal -->
+                    <button
+                      type="button"
+                      class="btn btn-primary quickView"
+                      data-bs-toggle="modal"
+                      data-bs-target="#staticBackdrop"
+                      style="background-color: #868e96; border: none"
+                    >
+                      <i class="bi bi-search"></i>
+                    </button>
+                    <!-- Modal -->
+                    <div
+                      class="modal fade"
+                      id="staticBackdrop"
+                      data-bs-backdrop="static"
+                      data-bs-keyboard="false"
+                      tabindex="-1"
+                      aria-labelledby="staticBackdropLabel"
+                      aria-hidden="true"
+                    >
+                      <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                          <div
+                            class="modal-header"
+                            style="
+                              border-bottom: none;
+                              color: black;
+                              margin: 0;
+                              padding: 5px;
+                            "
+                          >
+                            <h3>Bình Pha Lê Vàng 24K</h3>
+                            <button
+                              type="button"
+                              class="btn-close"
+                              data-bs-dismiss="modal"
+                              aria-label="Close"
+                              style="margin-right: 0"
+                            ></button>
+                          </div>
+                          <div
+                            class="modal-body"
+                            style="color: black; margin: 0; padding-top: 0"
+                          >
+                            <div class="row">
+                              <div class="col-7">
+                                <img
+                                  style="width: 100%"
+                                  src="images/home/aboutMe.jpg"
+                                />
+                              </div>
+                              <div class="col-5" style="padding: 0">
+                                <div style="border: 1px dotted #868e96">
+                                  <div
+                                    style="padding-left: 5px; font-size: 16px"
+                                  >
+                                    <div>NSX: Hàng nhập khẩu</div>
+                                    <div>Loại: Quà tặng cao cấp</div>
+                                    <div>SKU: FAG-D002</div>
+                                  </div>
+                                </div>
+                                <div style="padding-top: 10px; font-size: 14px">
+                                  - Chất liệu: Phale K9 không chì + thép 316
+                                  <br />
+                                  - Thân ly:Vàng lá 24K <br />
+                                  - Size:290x100x100mm <br />
+                                  - Dung tích:900ml <br />
+                                  - Chứng nhận:SGS quốc tế <br />
+                                  - Đặc tính nguyên liệu: Thân thiện mới môi
+                                  trường <br />
+                                  - Xuất xứ:Germany <br />
+                                  - Thương hiệu:ALFACHEN <br />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- --------------------------- -->
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+                <div class="card d-block">
+                  <a href="#">
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </a>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+                <div class="card d-block">
+                  <a href="#">
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </a>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+                <div class="card d-block">
+                  <a href="#">
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </a>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+                <div class="card d-block">
+                  <a href="#">
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </a>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+                <div class="card d-block">
+                  <a href="#">
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </a>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+                <div class="card d-block">
+                  <a href="#">
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </a>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+                <div class="card d-block">
+                  <a href="#">
+                    <img
+                      src="images/home/aboutMe.jpg"
+                      class="card-img-top"
+                      alt="..."
+                    />
+                  </a>
+                  <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <a href="#" class="btn btn-primary">Xem chi tiết</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Partner -->
+      <section class="project">
+        <div class="container">
+          <div class="">
+            <h4 class="title">ĐỐI TÁC KHÁCH HÀNG</h4>
+          </div>
+
+          <!--Owl Carousel -->
+          <div id="partner">
+            <div class="owl-carousel owl-theme">
+              <div class="item">
+                <img
+                  src="images/home/aboutMe.jpg"
+                  class="card-img-top"
+                  alt="..."
+                />
+              </div>
+              <div class="item">
+                <img
+                  src="images/home/aboutMe.jpg"
+                  class="card-img-top"
+                  alt="..."
+                />
+              </div>
+              <div class="item">
+                <img
+                  src="images/home/aboutMe.jpg"
+                  class="card-img-top"
+                  alt="..."
+                />
+              </div>
+              <div class="item">
+                <img
+                  src="images/home/aboutMe.jpg"
+                  class="card-img-top"
+                  alt="..."
+                />
+              </div>
+              <div class="item">
+                <img
+                  src="images/home/aboutMe.jpg"
+                  class="card-img-top"
+                  alt="..."
+                />
+              </div>
+              <div class="item">
+                <img
+                  src="images/home/aboutMe.jpg"
+                  class="card-img-top"
+                  alt="..."
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Contact -->
+    <aside id="contact">
+      <div class="container">
+        <div class="row pt-4">
+          <div class="col-md-4 col-sm-6 col-12">
+            <h2 class="title-contact">Thông Tin Liên hệ</h2>
+            <hr />
+            <div class="row">
+              <div class="col-1">
+                <img src="images/backgrounds/i_map.png" alt="map" />
+              </div>
+              <div class="col-11">
+                <p class="contact-content">
+                  Số 140/26 Vườn Lài P.An Phú Đông Quận 12
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-1">
+                <img src="images/backgrounds/i_phone2.png" alt="phone" />
+              </div>
+              <div class="col-11">
+                <p class="contact-content">0979.88.66.98</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-1">
+                <img src="images/backgrounds/i_email2.png" alt="email" />
+              </div>
+              <div class="col-11">
+                <p class="contact-content">EpoxyResinWood.3BrosArt@gmail.com</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-md-block d-none">
+            <div class="" style="padding-left: 20%">
+              <h2 class="title-contact">Chính Sách</h2>
+              <hr />
+              <div class="d-flex flex-column">
+                <a class="products" href="#">Chính sách thanh toán</a>
+                <a class="products" href="#">Chính sách vận chuyển</a>
+                <a class="products" href="#">Chính sách đổi trả</a>
+                <a class="products" href="#">Chính sách bảo hành</a>
+                <a class="products" href="#">Chính sách bảo mật</a>
+                <a class="products" href="#">Điều khoản dịch vụ</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-12">
+            <h2 class="title-contact">Lên kết mạng xã hội</h2>
+            <hr />
+            <div class="">
+              <iframe
+                src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100094889035703%26mibextid%3DZbWKwL&tabs=timeline&width=340&height=71&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+                width="340"
+                height="71"
+                style="border: none; overflow: hidden"
+                scrolling="no"
+                frameborder="0"
+                allowfullscreen="true"
+                allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Footer -->
+    <footer>
+      <p>Copyrights © 2019 LOHUK. All rights reserved.</p>
+    </footer>
+
+    <!-- Phone, zalo, email -->
+    <div class="plugins d-flex flex-column gap-2">
+      <div>
+        <a href="#">
+          <img src="images/backgrounds/i_phone.png" alt="phone" />
+        </a>
+      </div>
+      <div>
+        <a href="#">
+          <img src="images/backgrounds/i_email.png" alt="email" />
+        </a>
+      </div>
+      <div>
+        <a href="#">
+          <img src="images/backgrounds/i_zalo.png" alt="zalo" />
+        </a>
+      </div>
+    </div>
+
+    <!-- Back to top -->
+    <div id="back-to-top" class="back-to-top">
+      <a href="#" title="Back to top">
+        <i class="bi bi-arrow-up-circle-fill"></i>
+      </a>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/common.js"></script>
+
+    <!-- Bundle -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+
+    <!--Jquery -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+      integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+      crossorigin="anonymous"
+    ></script>
+    <!-- Owl Carousel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <!-- custom JS code after importing jquery and owl -->
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $(".owl-carousel").owlCarousel();
+      });
+
+      // Hot Product
+      $("#slider .owl-carousel").owlCarousel({
+        loop: true,
+        margin: 25,
+        nav: false,
+        autoplay: true,
+        autoplayTimeout: 2500,
+        autoplayHoverPause: true,
+        responsive: {
+          0: {
+            items: 1,
+          },
+          600: {
+            items: 3,
+          },
+          1000: {
+            items: 5,
+          },
+        },
+      });
+
+      // Partner
+      $("#partner .owl-carousel").owlCarousel({
+        loop: true,
+        margin: 25,
+        nav: false,
+        // autoplay: true,
+        // autoplayTimeout: 2500,
+        // autoplayHoverPause: true,
+        responsive: {
+          0: {
+            items: 6,
+          },
+          600: {
+            items: 6,
+          },
+          1000: {
+            items: 6,
+          },
+        },
+      });
+    </script>
+  </body>
+</html>

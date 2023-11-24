@@ -1,0 +1,44 @@
+@media screen and (max-width: 970px) {
+  .dropdown-pc {
+    display: none;
+  }
+  .dropdown-menu-2 {
+    margin-left: 149px;
+    margin-top: -49px;
+  }
+  .nav-item {
+    height: 39px;
+  }
+
+  .dropdown-mobie {
+    display: block;
+  }
+
+  .menu-1:hover .dropdown-menu-1 {
+    display: none;
+  }
+
+  .productDetail-li a {
+    font-size: 18px;
+    padding: 5px;
+    margin: 2px;
+    background-color: #343a40;
+  }
+}
+
+@media screen and (min-width: 970px) and (max-width: 1182px) {
+  .epoxyLamp-DMSP {
+    width: 235px !important;
+  }
+  .epoxyLamp-DMSP:hover .dropdown-epoxy-2 {
+    margin-left: 225px !important;
+  }
+  .dropdown-mobie {
+    display: none;
+  }
+  .productDetail-li a {
+    padding: 15px;
+    margin: 2px;
+    background-color: #343a40;
+  }
+}
