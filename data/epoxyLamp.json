@@ -1,0 +1,58 @@
+[
+  {
+    "id": "epoxyLamp1",
+    "path": "images/epoxy handmade/epoxy lamp/1.jpg",
+    "title": "Bình Pha Lê Vàng 1",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "epoxyLamp2",
+    "path": "images/epoxy handmade/epoxy lamp/2.jpg",
+    "title": "Bình Pha Lê Vàng 2",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "epoxyLamp3",
+    "path": "images/epoxy handmade/epoxy lamp/3.jpg",
+    "title": "Bình Pha Lê Vàng 3",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "epoxyLamp4",
+    "path": "images/epoxy handmade/epoxy lamp/4.jpg",
+    "title": "Bình Pha Lê Vàng 4",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "epoxyLamp5",
+    "path": "images/epoxy handmade/epoxy lamp/5.jpg",
+    "title": "Bình Pha Lê Vàng 5",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "epoxyLamp6",
+    "path": "images/epoxy handmade/epoxy lamp/6.jpg",
+    "title": "Bình Pha Lê Vàng 6",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "epoxyLamp7",
+    "path": "images/epoxy handmade/epoxy lamp/7.jpg",
+    "title": "Bình Pha Lê Vàng 7",
+    "type": "epoxyLamp",
+    "description": ""
+  },
+  {
+    "id": "epoxyLamp8",
+    "path": "images/epoxy handmade/epoxy lamp/8.jpg",
+    "title": "Bình Pha Lê Vàng 8",
+    "type": "epoxyLamp",
+    "description": ""
+  }
+]

@@ -1,13 +1,21 @@
 @media screen and (max-width: 760px) {
+  .title-logo {
+    font-size: 15px;
+  }
+
+  #h-img {
+    height: 220px;
+  }
+
   .productDetail-content .card {
-    width: 400px;
-    margin: 20px;
+    width: 330px;
+    margin: 10px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .productDetail-content .card {
-    width: 310px;
-    margin: 20px;
+    width: 240px;
+    margin: 10px;
   }
 }

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "epoxyStatue1",
+    "path": "images/epoxy handmade/epoxy statue/1.jpg",
+    "title": "Bình Pha Lê Vàng 1",
+    "type": "epoxyStatue",
+    "description": ""
+  },
+  {
+    "id": "epoxyStatue2",
+    "path": "images/epoxy handmade/epoxy statue/2.jpg",
+    "title": "Bình Pha Lê Vàng 2",
+    "type": "epoxyStatue",
+    "description": ""
+  },
+  {
+    "id": "epoxyStatue3",
+    "path": "images/epoxy handmade/epoxy statue/3.jpg",
+    "title": "Bình Pha Lê Vàng 3",
+    "type": "epoxyStatue",
+    "description": ""
+  },
+  {
+    "id": "epoxyStatue4",
+    "path": "images/epoxy handmade/epoxy statue/4.jpg",
+    "title": "Bình Pha Lê Vàng 4",
+    "type": "epoxyStatue",
+    "description": ""
+  },
+  {
+    "id": "epoxyStatue5",
+    "path": "images/epoxy handmade/epoxy statue/5.jpg",
+    "title": "Bình Pha Lê Vàng 5",
+    "type": "epoxyStatue",
+    "description": ""
+  },
+  {
+    "id": "epoxyStatue6",
+    "path": "images/epoxy handmade/epoxy statue/6.jpg",
+    "title": "Bình Pha Lê Vàng 6",
+    "type": "epoxyStatue",
+    "description": ""
+  },
+  {
+    "id": "epoxyStatue7",
+    "path": "images/epoxy handmade/epoxy statue/7.jpg",
+    "title": "Bình Pha Lê Vàng 7",
+    "type": "epoxyStatue",
+    "description": ""
+  },
+  {
+    "id": "epoxyStatue8",
+    "path": "images/epoxy handmade/epoxy statue/8.jpg",
+    "title": "Bình Pha Lê Vàng 8",
+    "type": "epoxyStatue",
+    "description": ""
+  }
+]

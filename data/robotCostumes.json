@@ -1,0 +1,58 @@
+[
+  {
+    "id": "robotCostumes1",
+    "path": "images/unique costumes/giant robot costumes/1.jpg",
+    "title": "Bình Pha Lê Vàng 1",
+    "type": "robotCostumes",
+    "description": ""
+  },
+  {
+    "id": "robotCostumes2",
+    "path": "images/unique costumes/giant robot costumes/2.jpg",
+    "title": "Bình Pha Lê Vàng 2",
+    "type": "robotCostumes",
+    "description": ""
+  },
+  {
+    "id": "robotCostumes3",
+    "path": "images/unique costumes/giant robot costumes/3.jpg",
+    "title": "Bình Pha Lê Vàng 3",
+    "type": "robotCostumes",
+    "description": ""
+  },
+  {
+    "id": "robotCostumes4",
+    "path": "images/unique costumes/giant robot costumes/4.jpg",
+    "title": "Bình Pha Lê Vàng 4",
+    "type": "robotCostumes",
+    "description": ""
+  },
+  {
+    "id": "robotCostumes5",
+    "path": "images/unique costumes/giant robot costumes/5.jpg",
+    "title": "Bình Pha Lê Vàng 5",
+    "type": "robotCostumes",
+    "description": ""
+  },
+  {
+    "id": "robotCostumes6",
+    "path": "images/unique costumes/giant robot costumes/6.jpg",
+    "title": "Bình Pha Lê Vàng 6",
+    "type": "robotCostumes",
+    "description": ""
+  },
+  {
+    "id": "robotCostumes7",
+    "path": "images/unique costumes/giant robot costumes/7.jpg",
+    "title": "Bình Pha Lê Vàng 7",
+    "type": "robotCostumes",
+    "description": ""
+  },
+  {
+    "id": "robotCostumes8",
+    "path": "images/unique costumes/giant robot costumes/8.jpg",
+    "title": "Bình Pha Lê Vàng 8",
+    "type": "robotCostumes",
+    "description": ""
+  }
+]

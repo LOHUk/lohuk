@@ -1,0 +1,58 @@
+[
+  {
+    "id": "epoxyDesign1",
+    "path": "images/epoxy gifts/design/1.jpg",
+    "title": "Bình Pha Lê Vàng 1",
+    "type": "epoxyDesign",
+    "description": ""
+  },
+  {
+    "id": "epoxyDesign2",
+    "path": "images/epoxy gifts/design/2.jpg",
+    "title": "Bình Pha Lê Vàng 2",
+    "type": "epoxyDesign",
+    "description": ""
+  },
+  {
+    "id": "epoxyDesign3",
+    "path": "images/epoxy gifts/design/3.jpg",
+    "title": "Bình Pha Lê Vàng 3",
+    "type": "epoxyDesign",
+    "description": ""
+  },
+  {
+    "id": "epoxyDesign4",
+    "path": "images/epoxy gifts/design/4.jpg",
+    "title": "Bình Pha Lê Vàng 4",
+    "type": "epoxyDesign",
+    "description": ""
+  },
+  {
+    "id": "epoxyDesign5",
+    "path": "images/epoxy gifts/design/5.jpg",
+    "title": "Bình Pha Lê Vàng 5",
+    "type": "epoxyDesign",
+    "description": ""
+  },
+  {
+    "id": "epoxyDesign6",
+    "path": "images/epoxy gifts/design/6.jpg",
+    "title": "Bình Pha Lê Vàng 6",
+    "type": "epoxyDesign",
+    "description": ""
+  },
+  {
+    "id": "epoxyDesign7",
+    "path": "images/epoxy gifts/design/7.jpg",
+    "title": "Bình Pha Lê Vàng 7",
+    "type": "epoxyDesign",
+    "description": ""
+  },
+  {
+    "id": "epoxyDesign8",
+    "path": "images/epoxy gifts/design/8.jpg",
+    "title": "Bình Pha Lê Vàng 8",
+    "type": "epoxyDesign",
+    "description": ""
+  }
+]

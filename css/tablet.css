@@ -1,4 +1,10 @@
 @media screen and (max-width: 970px) {
+  .title-logo {
+    font-size: 18px;
+  }
+  #h-img {
+    height: 280px;
+  }
   .dropdown-pc {
     display: none;
   }
@@ -27,11 +33,33 @@
 }
 
 @media screen and (min-width: 970px) and (max-width: 1182px) {
+  .title-logo {
+    font-size: 18px;
+  }
   .epoxyLamp-DMSP {
     width: 235px !important;
+    font-size: 16px !important;
   }
   .epoxyLamp-DMSP:hover .dropdown-epoxy-2 {
     margin-left: 225px !important;
+    margin-top: -32px !important;
+  }
+  .dropdown-mobie {
+    display: none;
+  }
+  .productDetail-li a {
+    padding: 15px;
+    margin: 2px;
+    background-color: #343a40;
+  }
+}
+
+@media screen and (min-width: 1380px) {
+  .epoxyLamp-DMSP {
+    width: 325px !important;
+  }
+  .epoxyLamp-DMSP:hover .dropdown-epoxy-2 {
+    margin-left: 315px !important;
   }
   .dropdown-mobie {
     display: none;
