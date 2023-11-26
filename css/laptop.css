@@ -365,8 +365,8 @@ footer {
 }
 
 .plugins img {
-  width: 35px;
-  height: 35px;
+  width: 55px;
+  height: 55px;
 }
 
 .plugins img:hover {
@@ -375,8 +375,8 @@ footer {
 
 .plugins {
   position: fixed;
-  top: 35%;
-  right: 0.08%;
+  top: 65%;
+  right: 0.3%;
   z-index: 150;
 }
 

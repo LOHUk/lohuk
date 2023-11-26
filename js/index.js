@@ -103,7 +103,7 @@ dataEpoxyHandmade.then((data) => {
   </div>
   <div class="card-body">
     <h5 class="card-title">${item.title}</h5>
-    <a href="#" class="btn btn-primary">Liên Hệ</a>
+    <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>
   `;
@@ -176,7 +176,7 @@ dataEpoxyFurniture.then((data) => {
   </div>
   <div class="card-body">
     <h5 class="card-title">${item.title}</h5>
-    <a href="#" class="btn btn-primary">Liên Hệ</a>
+    <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>
   `;
@@ -249,7 +249,7 @@ dataEpoxyGifts.then((data) => {
   </div>
   <div class="card-body">
     <h5 class="card-title">${item.title}</h5>
-    <a href="#" class="btn btn-primary">Liên Hệ</a>
+    <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>
   `;
@@ -322,7 +322,7 @@ dataUniqueCostumes.then((data) => {
   </div>
   <div class="card-body">
     <h5 class="card-title">${item.title}</h5>
-    <a href="#" class="btn btn-primary">Liên Hệ</a>
+    <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>
   `;

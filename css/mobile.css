@@ -20,6 +20,10 @@
     padding: 0;
   }
 
+  .long-size {
+    font-size: 18px !important;
+  }
+
   #items-content .card {
     width: 185px;
     margin: 20px;
@@ -31,6 +35,11 @@
 
   #items-content .card-body {
     text-align: center;
+  }
+
+  .plugins img {
+    width: 35px;
+    height: 35px;
   }
 }
 
