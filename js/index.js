@@ -44,7 +44,7 @@ dataEpoxyHandmade.then((data) => {
   data.forEach((item) => {
     html += `
   <div class="card d-block">
-  <div class="cl-quickView" href="#">
+  <div class="cl-quickView" >
     <button
       type="button"
       class="btn btn-primary quickView"

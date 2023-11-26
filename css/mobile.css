@@ -11,11 +11,39 @@
     width: 330px;
     margin: 10px;
   }
+
+  .productDetail-content .card {
+    width: 200px;
+    margin: 10px;
+  }
+  .home-content {
+    padding: 0;
+  }
+
+  #items-content .card {
+    width: 185px;
+    margin: 20px;
+  }
+
+  #items-content .card-img-top {
+    width: 183px;
+  }
+
+  #items-content .card-body {
+    text-align: center;
+  }
 }
 
 @media screen and (max-width: 480px) {
   .productDetail-content .card {
-    width: 240px;
+    width: 140px;
     margin: 10px;
+  }
+  #items-content .card {
+    width: 143px;
+    margin: 20px;
+  }
+  #items-content .card-img-top {
+    width: 140px;
   }
 }
