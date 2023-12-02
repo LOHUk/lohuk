@@ -21,7 +21,7 @@
   }
 
   .long-size {
-    font-size: 18px !important;
+    font-size: 16px !important;
   }
 
   #items-content .card {
@@ -41,6 +41,15 @@
     width: 35px;
     height: 35px;
   }
+
+  .quickView {
+    left: 40%;
+  }
+
+  .card-body h5,
+  .card-body p {
+    font-size: 15px;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -54,5 +63,8 @@
   }
   #items-content .card-img-top {
     width: 140px;
+  }
+  .quickView {
+    left: 33%;
   }
 }
