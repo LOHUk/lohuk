@@ -42,9 +42,9 @@
     height: 35px;
   }
 
-  .quickView {
+  /* .quickView {
     left: 43%;
-  }
+  } */
 
   .card-body h5,
   .card-body p {
@@ -59,19 +59,19 @@
   }
 
   #items-content .card {
-    width: 128px;
+    width: 133px;
     margin: 20px;
   }
   #items-content .card-img-top {
-    width: 125px;
+    width: 130px;
   }
   #items-content .quickView {
     left: 30%;
   }
 
-  #productDetail-epoxyGifts .quickView {
+  /* #productDetail-epoxyGifts .quickView {
     left: 48%;
-  }
+  } */
   .card-body h5,
   .card-body p {
     font-size: 12px;
