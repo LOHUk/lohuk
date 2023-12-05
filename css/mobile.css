@@ -59,11 +59,11 @@
   }
 
   #items-content .card {
-    width: 133px;
+    width: 136px;
     margin: 20px;
   }
   #items-content .card-img-top {
-    width: 130px;
+    width: 133px;
   }
   #items-content .quickView {
     left: 30%;
@@ -74,6 +74,6 @@
   } */
   .card-body h5,
   .card-body p {
-    font-size: 12px;
+    font-size: 13px;
   }
 }
