@@ -48,7 +48,7 @@
 
   .card-body h5,
   .card-body p {
-    font-size: 15px;
+    font-size: 13px;
   }
 }
 
@@ -58,13 +58,13 @@
     margin: 10px;
   }
   #items-content .card {
-    width: 137px;
+    width: 134px;
     margin: 20px;
   }
   #items-content .card-img-top {
-    width: 134px;
+    width: 131px;
   }
-  .quickView {
-    left: 36%;
+  #items-content .quickView {
+    left: 34%;
   }
 }
