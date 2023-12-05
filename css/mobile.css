@@ -58,13 +58,13 @@
     margin: 10px;
   }
   #items-content .card {
-    width: 143px;
+    width: 140px;
     margin: 20px;
   }
   #items-content .card-img-top {
     width: 140px;
   }
-  .quickView {
+  /* .quickView {
     left: 33%;
-  }
+  } */
 }
