@@ -48,7 +48,7 @@
 
   .card-body h5,
   .card-body p {
-    font-size: 13px;
+    font-size: 15px;
   }
 }
 
@@ -57,14 +57,23 @@
     width: 140px;
     margin: 10px;
   }
+
   #items-content .card {
-    width: 103px;
+    width: 128px;
     margin: 20px;
   }
   #items-content .card-img-top {
-    width: 100px;
+    width: 125px;
   }
   #items-content .quickView {
     left: 30%;
+  }
+
+  #productDetail-epoxyGifts .quickView {
+    left: 48%;
+  }
+  .card-body h5,
+  .card-body p {
+    font-size: 12px;
   }
 }
