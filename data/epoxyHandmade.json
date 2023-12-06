@@ -1,58 +1,58 @@
 [
   {
     "id": "epoxyHandmade1",
-    "path": "images/epoxy handmade/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
-    "type": "epoxyLamp",
+    "path": "images/epoxy handmade/Egg Art – Astronaut V1.jpg",
+    "title": "Egg Art – Astronaut V1",
+    "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyHandmade2",
-    "path": "images/epoxy handmade/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
-    "type": "epoxyLamp",
+    "path": "images/epoxy handmade/Egg Art – Deer V1.jpg",
+    "title": "Egg Art – Deer V1",
+    "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyHandmade3",
-    "path": "images/epoxy handmade/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
+    "path": "images/epoxy handmade/Lamp Art – Satarius V1.jpg",
+    "title": "Lamp Art – Satarius V1",
     "type": "epoxyLamp",
     "description": ""
   },
   {
     "id": "epoxyHandmade4",
-    "path": "images/epoxy handmade/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
-    "type": "epoxyLamp",
+    "path": "images/epoxy handmade/Egg Art – Astronaut V4.jpg",
+    "title": "Egg Art – Astronaut V4",
+    "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyHandmade5",
-    "path": "images/epoxy handmade/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
-    "type": "epoxyLamp",
+    "path": "images/epoxy handmade/Egg Art – Doremon V1.jpg",
+    "title": "Egg Art – Doremon V1",
+    "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyHandmade6",
-    "path": "images/epoxy handmade/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
-    "type": "epoxyLamp",
+    "path": "images/epoxy handmade/Egg Art – Ocean V1.jpg",
+    "title": "Egg Art – Ocean V1",
+    "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyHandmade7",
-    "path": "images/epoxy handmade/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
-    "type": "epoxyLamp",
+    "path": "images/epoxy handmade/Egg Art – Pumpkin V1.jpg",
+    "title": "Egg Art – Pumpkin V1",
+    "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyHandmade8",
-    "path": "images/epoxy handmade/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
-    "type": "epoxyLamp",
+    "path": "images/epoxy handmade/Egg Art – Volcano V1.jpg",
+    "title": "Egg Art – Volcano V1",
+    "type": "epoxyEggs",
     "description": ""
   }
 ]

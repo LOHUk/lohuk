@@ -1,58 +1,37 @@
 [
   {
     "id": "epoxyFurniture1",
-    "path": "images/epoxy furniture/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
-    "type": "epoxyLamp",
+    "path": "images/epoxy furniture/Epoxy Countertops - V1.jpg",
+    "title": "Epoxy Countertops - V1",
+    "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyFurniture2",
-    "path": "images/epoxy furniture/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
-    "type": "epoxyLamp",
+    "path": "images/epoxy furniture/Epoxy Countertops - V2.jpg",
+    "title": "Epoxy Countertops - V2",
+    "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyFurniture3",
-    "path": "images/epoxy furniture/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
-    "type": "epoxyLamp",
+    "path": "images/epoxy furniture/Epoxy Countertops - V3.jpg",
+    "title": "Epoxy Countertops - V3",
+    "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyFurniture4",
-    "path": "images/epoxy furniture/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
-    "type": "epoxyLamp",
+    "path": "images/epoxy furniture/Epoxy Countertops - V4.jpg",
+    "title": "Epoxy Countertops - V4",
+    "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyFurniture5",
-    "path": "images/epoxy furniture/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
-    "type": "epoxyLamp",
-    "description": ""
-  },
-  {
-    "id": "epoxyFurniture6",
-    "path": "images/epoxy furniture/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
-    "type": "epoxyLamp",
-    "description": ""
-  },
-  {
-    "id": "epoxyFurniture7",
-    "path": "images/epoxy furniture/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
-    "type": "epoxyLamp",
-    "description": ""
-  },
-  {
-    "id": "epoxyFurniture8",
-    "path": "images/epoxy furniture/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
-    "type": "epoxyLamp",
+    "path": "images/epoxy furniture/Epoxy Countertops - V5.jpg",
+    "title": "Epoxy Countertops - V5",
+    "type": "epoxyCountertops",
     "description": ""
   }
 ]

@@ -1,57 +1,36 @@
 [
   {
     "id": "epoxyCountertops1",
-    "path": "images/epoxy furniture/epoxy countertops/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
+    "path": "images/epoxy furniture/epoxy countertops/Epoxy Countertops - V1.jpg",
+    "title": "Epoxy Countertops - V1",
     "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyCountertops2",
-    "path": "images/epoxy furniture/epoxy countertops/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
+    "path": "images/epoxy furniture/epoxy countertops/Epoxy Countertops - V2.jpg",
+    "title": "Epoxy Countertops - V2",
     "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyCountertops3",
-    "path": "images/epoxy furniture/epoxy countertops/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
+    "path": "images/epoxy furniture/epoxy countertops/Epoxy Countertops - V3.jpg",
+    "title": "Epoxy Countertops - V3",
     "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyCountertops4",
-    "path": "images/epoxy furniture/epoxy countertops/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
+    "path": "images/epoxy furniture/epoxy countertops/Epoxy Countertops - V4.jpg",
+    "title": "Epoxy Countertops - V4",
     "type": "epoxyCountertops",
     "description": ""
   },
   {
     "id": "epoxyCountertops5",
-    "path": "images/epoxy furniture/epoxy countertops/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
-    "type": "epoxyCountertops",
-    "description": ""
-  },
-  {
-    "id": "epoxyCountertops6",
-    "path": "images/epoxy furniture/epoxy countertops/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
-    "type": "epoxyCountertops",
-    "description": ""
-  },
-  {
-    "id": "epoxyCountertops7",
-    "path": "images/epoxy furniture/epoxy countertops/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
-    "type": "epoxyCountertops",
-    "description": ""
-  },
-  {
-    "id": "epoxyCountertops8",
-    "path": "images/epoxy furniture/epoxy countertops/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
+    "path": "images/epoxy furniture/epoxy countertops/Epoxy Countertops - V5.jpg",
+    "title": "Epoxy Countertops - V5",
     "type": "epoxyCountertops",
     "description": ""
   }

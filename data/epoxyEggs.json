@@ -1,57 +1,64 @@
 [
   {
     "id": "epoxyEggs1",
-    "path": "images/epoxy handmade/epoxy eggs/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Astronaut V1.jpg",
+    "title": "Egg Art – Astronaut V1",
     "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyEggs2",
-    "path": "images/epoxy handmade/epoxy eggs/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Astronaut V3.jpg",
+    "title": "Egg Art – Astronaut V3",
     "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyEggs3",
-    "path": "images/epoxy handmade/epoxy eggs/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Astronaut V4.jpg",
+    "title": "Egg Art – Astronaut V4",
     "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyEggs4",
-    "path": "images/epoxy handmade/epoxy eggs/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Black Panther V1.jpg",
+    "title": "Egg Art – Black Panther V1",
     "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyEggs5",
-    "path": "images/epoxy handmade/epoxy eggs/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Deer V1.jpg",
+    "title": "Egg Art – Deer V1",
     "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyEggs6",
-    "path": "images/epoxy handmade/epoxy eggs/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Doremon V1.jpg",
+    "title": "Egg Art – Doremon V1",
     "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyEggs7",
-    "path": "images/epoxy handmade/epoxy eggs/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Ocean V1.jpg",
+    "title": "Egg Art – Ocean V1",
     "type": "epoxyEggs",
     "description": ""
   },
   {
     "id": "epoxyEggs8",
-    "path": "images/epoxy handmade/epoxy eggs/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Pumpkin V1.jpg",
+    "title": "Egg Art – Pumpkin V1",
+    "type": "epoxyEggs",
+    "description": ""
+  },
+  {
+    "id": "epoxyEggs8",
+    "path": "images/epoxy handmade/epoxy eggs/Egg Art – Volcano V1.jpg",
+    "title": "Egg Art – Volcano V1",
     "type": "epoxyEggs",
     "description": ""
   }

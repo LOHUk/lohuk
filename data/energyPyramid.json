@@ -1,57 +1,15 @@
 [
   {
     "id": "energyPyramid1",
-    "path": "images/epoxy handmade/Energy pyramid/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
+    "path": "images/epoxy handmade/Energy pyramid/Egg Art – Volcano V1.jpg",
+    "title": "Egg Art – Volcano V1",
     "type": "energyPyramid",
     "description": ""
   },
   {
     "id": "energyPyramid2",
-    "path": "images/epoxy handmade/Energy pyramid/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
-    "type": "energyPyramid",
-    "description": ""
-  },
-  {
-    "id": "energyPyramid3",
-    "path": "images/epoxy handmade/Energy pyramid/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
-    "type": "energyPyramid",
-    "description": ""
-  },
-  {
-    "id": "energyPyramid4",
-    "path": "images/epoxy handmade/Energy pyramid/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
-    "type": "energyPyramid",
-    "description": ""
-  },
-  {
-    "id": "energyPyramid5",
-    "path": "images/epoxy handmade/Energy pyramid/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
-    "type": "energyPyramid",
-    "description": ""
-  },
-  {
-    "id": "energyPyramid6",
-    "path": "images/epoxy handmade/Energy pyramid/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
-    "type": "energyPyramid",
-    "description": ""
-  },
-  {
-    "id": "energyPyramid7",
-    "path": "images/epoxy handmade/Energy pyramid/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
-    "type": "energyPyramid",
-    "description": ""
-  },
-  {
-    "id": "energyPyramid8",
-    "path": "images/epoxy handmade/Energy pyramid/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
+    "path": "images/epoxy handmade/Energy pyramid/Egg Art – Volcano V2.jpg",
+    "title": "Egg Art – Volcano V2",
     "type": "energyPyramid",
     "description": ""
   }

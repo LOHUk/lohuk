@@ -1,58 +1,44 @@
 [
   {
     "id": "uniqueCostumes1",
-    "path": "images/unique costumes/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
-    "type": "epoxyLamp",
+    "path": "images/unique costumes/Trang Phục – Robot – Vansquish.jpg",
+    "title": "Robot – Vansquish",
+    "type": "robotCostumes",
     "description": ""
   },
   {
     "id": "uniqueCostumes2",
-    "path": "images/unique costumes/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
-    "type": "epoxyLamp",
+    "path": "images/unique costumes/Trang phục – Robot Khổng Lồ – Bumblebee.jpg",
+    "title": "Robot Khổng Lồ – Bumblebee",
+    "type": "robotCostumes",
     "description": ""
   },
   {
     "id": "uniqueCostumes3",
-    "path": "images/unique costumes/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
-    "type": "epoxyLamp",
+    "path": "images/unique costumes/Trang Phục – Robot Khổng Lồ – Hulk Buster.jpg",
+    "title": "Trang Phục – Robot Khổng Lồ – Hulk Buster",
+    "type": "robotCostumes",
     "description": ""
   },
   {
     "id": "uniqueCostumes4",
-    "path": "images/unique costumes/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
-    "type": "epoxyLamp",
+    "path": "images/unique costumes/Trang Phục – Robot Khổng Lồ – Optimus Prime.jpg",
+    "title": "Robot Khổng Lồ – Optimus Prime",
+    "type": "robotCostumes",
     "description": ""
   },
   {
     "id": "uniqueCostumes5",
-    "path": "images/unique costumes/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
-    "type": "epoxyLamp",
+    "path": "images/unique costumes/Trang Phục – Robot Khổng Lồ – Robot Gương.jpg",
+    "title": "Robot Khổng Lồ – Robot Gương",
+    "type": "robotCostumes",
     "description": ""
   },
   {
     "id": "uniqueCostumes6",
-    "path": "images/unique costumes/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
-    "type": "epoxyLamp",
-    "description": ""
-  },
-  {
-    "id": "uniqueCostumes7",
-    "path": "images/unique costumes/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
-    "type": "epoxyLamp",
-    "description": ""
-  },
-  {
-    "id": "uniqueCostumes8",
-    "path": "images/unique costumes/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
-    "type": "epoxyLamp",
+    "path": "images/unique costumes/Trang phục Biểu diễn – Khủng long Bạo chúa.jpg",
+    "title": "Khủng long Bạo chúa",
+    "type": "robotCostumes",
     "description": ""
   }
 ]

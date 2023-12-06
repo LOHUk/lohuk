@@ -1,57 +1,43 @@
 [
   {
-    "id": "robotModel1",
-    "path": "images/unique costumes/giant robot model/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
-    "type": "robotModel",
-    "description": ""
-  },
-  {
-    "id": "robotModel2",
-    "path": "images/unique costumes/giant robot model/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
-    "type": "robotModel",
-    "description": ""
-  },
-  {
-    "id": "robotModel3",
-    "path": "images/unique costumes/giant robot model/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
-    "type": "robotModel",
-    "description": ""
-  },
-  {
-    "id": "robotModel4",
-    "path": "images/unique costumes/giant robot model/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
+    "id": "robotModel6",
+    "path": "images/unique costumes/giant robot model/Trang Phục – Robot – Vansquish.jpg",
+    "title": "Robot – Vansquish",
     "type": "robotModel",
     "description": ""
   },
   {
     "id": "robotModel5",
-    "path": "images/unique costumes/giant robot model/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
+    "path": "images/unique costumes/giant robot model/Trang phục – Robot Khổng Lồ – Bumblebee.jpg",
+    "title": "Robot Khổng Lồ – Bumblebee",
     "type": "robotModel",
     "description": ""
   },
   {
-    "id": "robotModel6",
-    "path": "images/unique costumes/giant robot model/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
+    "id": "robotModel4",
+    "path": "images/unique costumes/giant robot model/Trang Phục – Robot Khổng Lồ – Hulk Buster.jpg",
+    "title": "Robot Khổng Lồ – Hulk Buster",
     "type": "robotModel",
     "description": ""
   },
   {
-    "id": "robotModel7",
-    "path": "images/unique costumes/giant robot model/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
+    "id": "robotModel3",
+    "path": "images/unique costumes/giant robot model/Trang Phục – Robot Khổng Lồ – Optimus Prime.jpg",
+    "title": "Robot Khổng Lồ – Optimus Prime",
     "type": "robotModel",
     "description": ""
   },
   {
-    "id": "robotModel8",
-    "path": "images/unique costumes/giant robot model/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
+    "id": "robotModel2",
+    "path": "images/unique costumes/giant robot model/Trang Phục – Robot Khổng Lồ – Robot Gương.jpg",
+    "title": "Robot Khổng Lồ – Robot Gương",
+    "type": "robotModel",
+    "description": ""
+  },
+  {
+    "id": "robotModel1",
+    "path": "images/unique costumes/giant robot model/Trang phục Biểu diễn – Khủng long Bạo chúa.jpg",
+    "title": "Khủng long Bạo chúa",
     "type": "robotModel",
     "description": ""
   }

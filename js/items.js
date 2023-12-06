@@ -11,11 +11,12 @@ const btnNext = document.getElementById("btn-next");
 const pageNum = document.getElementById("page-num");
 const btnPrevDisabled = document.getElementById("btn-prev-disabled");
 const btnNextDisabled = document.getElementById("btn-next-disabled");
+const bannerRow = document.getElementById("banner-row");
 
 // Get data from localStorage
 let page = localStorage.getItem(PAGE) ?? [];
 let pageNumber = 1;
-let pageSize = 6;
+let pageSize = 15;
 let pageName;
 
 // Call Previous
@@ -104,6 +105,7 @@ if (page === "energyPyramid") {
 
 // Init
 document.title = pageName;
+bannerRow.src = `../images/home/${page}.png`;
 pathDirection.innerHTML = `
   <a href="../index.html"> <i class="bi bi-house-door-fill"></i> Trang Chủ </a>
   <i class="bi bi-chevron-right"></i> ${pageName}
@@ -184,4 +186,9 @@ function prev() {
 function next() {
   pageNumber = pageNumber + 1;
   renderDatas(pageNumber);
+}
+
+// Fuction next page
+function nextPage(page1) {
+  saveToStorage(PAGE, page1);
 }

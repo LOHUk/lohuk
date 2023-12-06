@@ -102,7 +102,9 @@ dataEpoxyHandmade.then((data) => {
     />
   </div>
   <div class="card-body">
-    <h5 class="card-title">${item.title}</h5>
+    <a href="./product detail/items.html" onclick="nextPage('${item.type}')" target="_blank" >
+      <h5 class="card-title">${item.title}</h5>
+    </a>
     <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>
@@ -175,7 +177,9 @@ dataEpoxyFurniture.then((data) => {
     />
   </div>
   <div class="card-body">
-    <h5 class="card-title">${item.title}</h5>
+    <a href="./product detail/items.html" onclick="nextPage('${item.type}')" target="_blank" >
+      <h5 class="card-title">${item.title}</h5>
+    </a>
     <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>
@@ -248,7 +252,9 @@ dataEpoxyGifts.then((data) => {
     />
   </div>
   <div class="card-body">
-    <h5 class="card-title">${item.title}</h5>
+    <a href="./product detail/items.html" onclick="nextPage('${item.type}')" target="_blank" >
+      <h5 class="card-title">${item.title}</h5>
+    </a>
     <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>
@@ -321,7 +327,9 @@ dataUniqueCostumes.then((data) => {
     />
   </div>
   <div class="card-body">
-    <h5 class="card-title">${item.title}</h5>
+    <a href="./product detail/items.html" onclick="nextPage('${item.type}')" target="_blank" >
+      <h5 class="card-title">${item.title}</h5>
+    </a>
     <div ><h5 style="color:red">Liên Hệ</h5></div>
   </div>
 </div>

@@ -1,57 +1,15 @@
 [
   {
     "id": "epoxyBar1",
-    "path": "images/epoxy furniture/epoxy bar/1.jpg",
-    "title": "Bình Pha Lê Vàng 1",
+    "path": "images/epoxy furniture/epoxy bar/Epoxy Countertops - V2.jpg",
+    "title": "Epoxy Countertops - V2",
     "type": "epoxyBar",
     "description": ""
   },
   {
     "id": "epoxyBar2",
-    "path": "images/epoxy furniture/epoxy bar/2.jpg",
-    "title": "Bình Pha Lê Vàng 2",
-    "type": "epoxyBar",
-    "description": ""
-  },
-  {
-    "id": "epoxyBar3",
-    "path": "images/epoxy furniture/epoxy bar/3.jpg",
-    "title": "Bình Pha Lê Vàng 3",
-    "type": "epoxyBar",
-    "description": ""
-  },
-  {
-    "id": "epoxyBar4",
-    "path": "images/epoxy furniture/epoxy bar/4.jpg",
-    "title": "Bình Pha Lê Vàng 4",
-    "type": "epoxyBar",
-    "description": ""
-  },
-  {
-    "id": "epoxyBar5",
-    "path": "images/epoxy furniture/epoxy bar/5.jpg",
-    "title": "Bình Pha Lê Vàng 5",
-    "type": "epoxyBar",
-    "description": ""
-  },
-  {
-    "id": "epoxyBar6",
-    "path": "images/epoxy furniture/epoxy bar/6.jpg",
-    "title": "Bình Pha Lê Vàng 6",
-    "type": "epoxyBar",
-    "description": ""
-  },
-  {
-    "id": "epoxyBar7",
-    "path": "images/epoxy furniture/epoxy bar/7.jpg",
-    "title": "Bình Pha Lê Vàng 7",
-    "type": "epoxyBar",
-    "description": ""
-  },
-  {
-    "id": "epoxyBar8",
-    "path": "images/epoxy furniture/epoxy bar/8.jpg",
-    "title": "Bình Pha Lê Vàng 8",
+    "path": "images/epoxy furniture/epoxy bar/Epoxy Countertops - V4.jpg",
+    "title": "Epoxy Countertops - V4",
     "type": "epoxyBar",
     "description": ""
   }
