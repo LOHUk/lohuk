@@ -50,6 +50,11 @@
   .card-body p {
     font-size: 15px;
   }
+
+  #contact-border {
+    margin-top: 5px;
+    padding: 0;
+  }
 }
 
 @media screen and (max-width: 480px) {

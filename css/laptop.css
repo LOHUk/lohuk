@@ -330,6 +330,10 @@ article {
   height: 22px;
 }
 
+#contact-border {
+  padding-right: 0;
+}
+
 .contact-content {
   align-items: center;
   justify-content: center;
